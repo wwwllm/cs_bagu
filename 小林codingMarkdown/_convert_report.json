@@ -1,0 +1,119 @@
+[
+  {
+    "book": "图解网络",
+    "pdf": "图解网络-小林coding/图解网络-小林coding-亮白风格-v4.0.pdf",
+    "pages": 776,
+    "chapters": 7,
+    "chars": 338983,
+    "images": 806,
+    "seconds": 75
+  },
+  {
+    "book": "图解系统",
+    "pdf": "图解系统-小林coding/图解系统-亮白风格-小林coding-v1.0.pdf",
+    "pages": 432,
+    "chapters": 13,
+    "chars": 196417,
+    "images": 398,
+    "seconds": 38
+  },
+  {
+    "book": "图解MySQL",
+    "pdf": "图解MySQL-小林coding/图解MySQL-小林coding-亮白版-v2.0.pdf",
+    "pages": 333,
+    "chapters": 13,
+    "chars": 198302,
+    "images": 372,
+    "seconds": 37
+  },
+  {
+    "book": "图解Redis",
+    "pdf": "图解Redis-小林coding/图解Redis-小林coding-亮白版-v2.0.pdf",
+    "pages": 320,
+    "chapters": 13,
+    "chars": 193246,
+    "images": 287,
+    "seconds": 32
+  },
+  {
+    "book": "150道MySQL+Redis面试题",
+    "pdf": "小林八股面试题汇总/150道MySQL+Redis面试题-小林coding-v2.0.pdf",
+    "pages": 162,
+    "chapters": 6,
+    "chars": 106629,
+    "images": 129,
+    "seconds": 16
+  },
+  {
+    "book": "150道计算机网络+操作系统+数据结构与算法面试题",
+    "pdf": "小林八股面试题汇总/150道计算机网络+操作系统+数据结构与算法面试题-小林coding-v2.0.pdf",
+    "pages": 199,
+    "chapters": 7,
+    "chars": 111706,
+    "images": 168,
+    "seconds": 22
+  },
+  {
+    "book": "30道Linux命令+Git面试题",
+    "pdf": "小林八股面试题汇总/30道Linux命令+Git面试题-小林coding-v2.0.pdf",
+    "pages": 54,
+    "chapters": 6,
+    "chars": 20443,
+    "images": 50,
+    "seconds": 9
+  },
+  {
+    "book": "350道测试开发面试题",
+    "pdf": "小林八股面试题汇总/350道测试开发面试题-小林coding-v2.0.pdf",
+    "pages": 180,
+    "chapters": 9,
+    "chars": 133384,
+    "images": 34,
+    "seconds": 13
+  },
+  {
+    "book": "50道消息队列+分布式+系统设计",
+    "pdf": "小林八股面试题汇总/50道消息队列+分布式+系统设计-小林coding-v2.0.pdf",
+    "pages": 134,
+    "chapters": 7,
+    "chars": 76542,
+    "images": 120,
+    "seconds": 18
+  },
+  {
+    "book": "300道Java面试题",
+    "pdf": "小林八股面试题汇总/300道+Java面试题（Java基础+集合+并发+JVM+Spring）-小林coding-v2.0.pdf",
+    "pages": 296,
+    "chapters": 9,
+    "chars": 254641,
+    "images": 131,
+    "seconds": 24
+  },
+  {
+    "book": "100道Golang面试题",
+    "pdf": "小林八股面试题汇总/100道+Golang面试题（基础+数据类型+并发+GMP+内存管理+垃圾回收）-小林coding-v2.0.pdf",
+    "pages": 110,
+    "chapters": 5,
+    "chars": 65206,
+    "images": 67,
+    "seconds": 11
+  },
+  {
+    "book": "大厂后端面试真题",
+    "pdf": "小林八股面试题汇总/大厂后端面试真题-小林coding-白色.pdf",
+    "pages": 150,
+    "chapters": 18,
+    "chars": 118534,
+    "images": 79,
+    "seconds": 11
+  },
+  {
+    "book": "100道CPP面试题",
+    "pdf": "小林八股面试题汇总/100道+CPP面试题（基础+面向对象+STL+内存管理+新特性）-小林coding-v2.0.pdf",
+    "pages": 132,
+    "chapters": 5,
+    "chars": 74492,
+    "images": 63,
+    "seconds": 12
+  }
+]
